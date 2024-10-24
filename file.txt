@@ -1,0 +1,11 @@
+Git clone address
+
+git and github
+
+alternatives : AWS, gitlab,bitbucket
+
+git add . : add the file to the staging alternatives (file is being travcket by git)
+
+git commit -m "message" : to commit the changes in the tracked file
+
+git push origin main : pushing the file to the main branch in the github repository.
